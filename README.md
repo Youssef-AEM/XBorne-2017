@@ -44,8 +44,6 @@ with this new functions to analyse a new model.
    can transform your model into a MM form and use state of the art solver
    available on the web. 
 
- - Transient : not available YET
-
  - MatrixOPerations: some programs to transform the matrices: transpose for 
    instance. Also possible to export.
    
