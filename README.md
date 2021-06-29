@@ -72,3 +72,7 @@ with this new functions to analyse a new model.
  - Util : Construction of the two tables of Walker's algorithm. To use in alais method for a simulation.
    as input : a probabilistic distribution.
    output : two vectors in the same file the size is in the .sz file.
+   
+ - Muntz : Lower and Upper algorithm for the steady state distribution.
+
+ - Properties : verifications algorithms of some proprieties of Markov chain graphs.
