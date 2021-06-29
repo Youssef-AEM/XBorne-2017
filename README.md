@@ -68,9 +68,9 @@ with this new functions to analyse a new model.
    extra information in const.h.  2 versions here: with or without 
    information on the coverage of the state space. 
    
-  -LR : some programs to calculate the steady-state distribution and transient
+ - LR : some programs to calculate the steady-state distribution and transient
    distribution for Low Rank and Class G Markov chains. 
    
-  - Util : Construction of the two tables of Walker's algorithm. To use in alais method for a simulation.
+ - Util : Construction of the two tables of Walker's algorithm. To use in alais method for a simulation.
    as input : a probabilistic distribution.
    output : two vectors in the same file the size is in the .sz file.
