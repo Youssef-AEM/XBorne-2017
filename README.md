@@ -1,5 +1,5 @@
 # XBorne-2017
-We present the last version (2016) of XBorne a software tool for the probabilistic
+We present the last version of XBorne a software tool for the probabilistic
 modeling with Markov chains. The tool which has been developed initially as a test-
 bed for the algorithmic stochastic comparisons of stochastic matrices and Markov
 chains, is now a general purpose framework which can be used for the Markovian
